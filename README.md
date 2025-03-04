@@ -48,6 +48,8 @@ Introductory: using ```fullScreen()```
 
 - Grading: Upload Sketch & DIVs-with-numbers images to index.html
 
+- Teacher lesson about flipping the paper for DIVs (symmetry) or laying another paper over top (asymmetrical) 
+
 Intermediate: using ```size()```
 - [ ] Draft Version: what this generally look like
 - [ ] Materials Design: described in margins | actually built with paper like Google Video
