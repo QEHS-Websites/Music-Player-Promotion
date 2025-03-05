@@ -207,6 +207,14 @@ DUE: 20250305
 - Intermediate and Advanced CS Classes must do this part
 - Introductory should consider it
 
+---
+
+Ideas to Conmsider
+- Referent measures on display-abstractino
+- Whole Numbers of display-abstraction (50mm, 100mm, 200mm, etc.)
+- Symmetry repeats numbers and makes coding simpler
+- Asymmetry illustrates faces on music player when rect() is abstracted (very normal for high school GUI design)
+
 ### Personalizing the ```index.html``` File
 - Change the HTML File to represent the Music Player Case Study | Wireframe
 
