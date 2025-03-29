@@ -1,5 +1,5 @@
 # Music Player Promotion
-Websites &amp; Review
+Websites & Review
 
 ---
 
@@ -9,7 +9,6 @@ https://github.com/MercersKitchen/Music-Player-20250131-P2-github.io
 
 https://github.com/MercersKitchen/Review-Music-Player-20250131-P4-github.io
 
-
 ---
 
 # Rubrics for Grading
@@ -17,19 +16,19 @@ https://github.com/MercersKitchen/Review-Music-Player-20250131-P4-github.io
 - Note: completing this is a grade itself and has a due date
 
 # Repository Files, Folder Structure, and Submitted Host URL
-- Folder Structure, each with ReadMe.txt: Images | Lesson Prototyping | Music | Music App | Website Dependancies
-- [ ] Website Dependancies
+- Folder Structure, each with ReadMe.txt: Images | Lesson Prototyping | Music | Music App | Website Dependencies
+- [ ] Website Dependencies
   - [ ] Folder Structure: favicon | child Pages | Images (specific to website only)
 
 DUE See Google Classroom
 
-# Music Player Case Study & Wire Frame
+# Music Player Case Study & Wireframe
 - Purpose: Develop the creative-AI of the music player
-- Purpose: Create the first image of website from a piece of paper that is digitalized
-- Purpose: Use Internet Images and YouTube videos to develop instructions, ideas, colour schemes & design, music-based art, etc.
-- Introductyory is ```structured``` as entire Display in fullScreen()
+- Purpose: Create the first image of the website from a piece of paper that is digitalized
+- Purpose: Use Internet Images and YouTube videos to develop instructions, ideas, color schemes & design, music-based art, etc.
+- Introductory is ```structured``` as entire Display in fullScreen()
 - Intermediate is ```procedural``` as size() of fullScreen() with check of geometry
-- Advanced is ```OOP``` as size() of symmetrical game-interrupt with check for symetry (i.e. ball dounces around in music rect() as faded image)
+- Advanced is ```OOP``` as size() of symmetrical game-interrupt with check for symmetry (i.e. ball bounces around in music rect() as faded image)
 
 ### Introduction Video for Paper and Pencil Prototyping
 - CAUTION: what AI-Images must consider
@@ -38,24 +37,25 @@ DUE See Google Classroom
 - NOTE: might need to open this Google Photos URL with an INCOGNITO Tab if not logged into Chrome with School-based email
 
 Introductory: using ```fullScreen()```
-- [ ] Draft Version: what this generally look like
-- [ ] Text Version: general hard-coded Text & text from .mp3 meta-data
-  - Manditory: Song Title | Song Length | Position | Time Remaining
-- [ ] Materials Design: described in margins | actually built with paper like Google Video- [ ] Functionality: described in margins | actually built with paper like Google Video
+- [ ] Draft Version: what this generally looks like
+- [ ] Text Version: general hard-coded Text & text from .mp3 metadata
+  - Mandatory: Song Title | Song Length | Position | Time Remaining
+- [ ] Materials Design: described in margins | actually built with paper like Google Video
+- [ ] Functionality: described in margins | actually built with paper like Google Video
   - Single Function Buttons
 - [ ] DIVs & Ratio, Thinking-Like-a-Computer (TLC)
   - for every piece of Text, 2D Shape, and Image represent this by a rect()
 
 - Grading: Upload Sketch & DIVs-with-numbers images to index.html
 
-- Teacher lesson about flipping the paper for DIVs (symmetry) or laying another paper over top (asymmetrical) 
+- Teacher lesson about flipping the paper for DIVs (symmetry) or laying another paper over top (asymmetry) 
 
 Intermediate: using ```size()```
-- [ ] Draft Version: what this generally look like
+- [ ] Draft Version: what this generally looks like
 - [ ] Materials Design: described in margins | actually built with paper like Google Video
 - [ ] Functionality: described in margins | actually built with paper like Google Video
-  - Mutliple Function Buttons
-  - AutoPlay: Play First Song in PlayList | Random Start | Choose a Song in the PlayList and then continue Sequence | Randome Start, Random Next 
+  - Multiple Function Buttons
+  - AutoPlay: Play First Song in Playlist | Random Start | Choose a Song in the Playlist and then continue Sequence | Random Start, Random Next 
 - [ ] DIVs & Ratio, Thinking-Like-a-Computer (TLC)
   - for every piece of Text, 2D Shape, and Image represent this by a rect()
   - record ```coordinates``` of where to start the rect() drawing, width & height separately
@@ -63,7 +63,7 @@ Intermediate: using ```size()```
 - Grading: Upload Sketch & DIVs-with-numbers images to index.html
 
 Advanced: using ```size()```
-- [ ] Draft Version: what this generally look like
+- [ ] Draft Version: what this generally looks like
 - [ ] End User Experience (see previous)
 - [ ] DIVs & Ratio, Thinking-Like-a-Computer (TLC)
   - for every piece of Text, 2D Shape, and Image represent this by a rect()
@@ -87,12 +87,14 @@ DUE: 20250303
 - 1 week for intro & web tools
 - 2 weeks for HTML & GitHub Files
 - ~3 weeks, HTML in Responsive Design, see https://www.w3schools.com/html/html_responsive.asp
-- Make a summary of the Responsibe Elements (most already taught in in HTML1)
+- Make a summary of the Responsive Elements (most already taught in HTML1)
 
 ### Intermediate: Client-side 3 Credit
 
 DUE: 20250321 (Before Spring Break in Sem 2)
 - ~3 weeks JavaScript DOM, see https://www.w3schools.com/js/js_htmldom.asp
+- Submit your link directly to the www version of your index.html
+- Put a link in your index.html to link to your JS DOM version, preferably in a folder
 
 ### Advanced: Server Side Credit
 
@@ -113,14 +115,14 @@ DUE: 20250305
 - [ ] Preview the ```index.html```
 - [ ] Demonstrate: how computers communicate (must know vocabulary)
 - [ ] Complete first draft of music player & upload to GitHub Music Player Repository
-- [ ] Music Player Case Study, Theme of Player: name, description, image, colours that will be used
-  - [ ] Intermeidate: click buton, then rect() with interface on it
+- [ ] Music Player Case Study, Theme of Player: name, description, image, colors that will be used
+  - [ ] Intermediate: click button, then rect() with interface on it
   - [ ] Advanced: click button, then rect() displaying different amounts of information
 - [ ] Music Player Case Study: record image of music player / transfer to computer (email, etc.) 
      / transfer to Explorer Folder of Music Player
      / link to ```index.html``` (internal file, not server link)
 - [ ] Submit GitHub URL through Google FORM (parent pathway)
-- [ ] Demostration: What is a Browser (must know vocabulary)
+- [ ] Demonstration: What is a Browser (must know vocabulary)
 
 - [ ] TBA Grading, DATE: Checklist, see Personalizing the ```index.html``` File
 
@@ -137,7 +139,7 @@ DUE: 20250305
 ---
 
 ### GitHub: Music Player Repository
-- Big Greeen Buttons
+- Big Green Buttons
 - GitHub: create a repository and include ```github.io```
 - Settings / Pages / Branch / ```None``` to ```Main``` / Press ```SAVE```
 - Introduce computer instructions (must scan the screen for specific words with implied "click")
@@ -145,7 +147,7 @@ DUE: 20250305
 - Copy HTML5 Files
 - Must save file / refresh locally to see changes immediately
 - Eventually GitHub Hosting will catch-up in the background
-- Folder Organizattion
+- Folder Organization
     - [ ] Images (URL or file)
     - [ ] Music (mp3 files only), 3 maximum
 
@@ -172,14 +174,14 @@ DUE: 20250305
 ---
 
 ### Complete first draft of music player & upload to GitHub Music Player Repository
-- Case Study | AI Digital Drawing Wire Frame | Paper & Pencil digitalized and included in index.html
-- GitHub & Internal Editting or Microsoft Visual Studio Code
+- Case Study | AI Digital Drawing Wireframe | Paper & Pencil digitalized and included in index.html
+- GitHub & Internal Editing or Microsoft Visual Studio Code
 - Submit GitHub URL through Google FORM (parent pathway)
 
-### Checklist for Case Study of Music Player | Wire Frame (Need Ratios for GUI)
+### Checklist for Case Study of Music Player | Wireframe (Need Ratios for GUI)
 - What Does the Overall Layout look like
 - Where are the buttons and what do they look like (symbolic differences between buttons in 2D shapes)
-- Must list all the buttons and what they do, unique behaviours (be specific using other players like Spotify Behaviours)
+- Must list all the buttons and what they do, unique behaviors (be specific using other players like Spotify Behaviors)
   - NOTE: Algorithm to change presentation of button on Hoverover & click
   - Quit
   - Play
@@ -199,7 +201,7 @@ DUE: 20250305
   - Time Remaining
   - Song Title
   - Advanced: ```Try``` Additional Items ( right click on mp3 / details ) ```Catch``` Null
-- What are the colours, day mode, dark mode, and night mode ( global design algorithms )
+- What are the colors, day mode, dark mode, and night mode ( global design algorithms )
 
 - NOTE: able to transfer images using students Google Photos
 
@@ -209,8 +211,8 @@ DUE: 20250305
 
 ---
 
-Ideas to Conmsider
-- Referent measures on display-abstractino
+Ideas to Consider
+- Referent measures on display-abstraction
 - Whole Numbers of display-abstraction (50mm, 100mm, 200mm, etc.)
 - Symmetry repeats numbers and makes coding simpler
 - Asymmetry illustrates faces on music player when rect() is abstracted (very normal for high school GUI design)
@@ -218,7 +220,7 @@ Ideas to Conmsider
 ### Personalizing the ```index.html``` File
 - Change the HTML File to represent the Music Player Case Study | Wireframe
 
-- Introducotry: site.css & script.js optional
+- Introductory: site.css & script.js optional
   - Change Text
   - Change Images to be used in music player, associated with music files | theme (see AI about GIF Images and inline settings)
   - Change Video: Introduce idea of YouTube Videos & APIs (not just the URL) | All Videos, associated with music files | theme
@@ -228,11 +230,11 @@ Ideas to Conmsider
   - Will indent blockquote sections 
   - Semantic Tags
   - Other Tags
-  - Finding more tages
+  - Finding more tags
 
   - Add these tags to the HTML 
 
-  - Imges & Videos: <figure></figure> & <figcaption></figcaption>
+  - Images & Videos: <figure></figure> & <figcaption></figcaption>
   - Who is the creator, with hyperlink: <cite a=""></cite>
 
 - Intermediate: HTML in Responsive Design, see https://www.w3schools.com/html/html_responsive.asp
@@ -253,7 +255,7 @@ Ideas to Conmsider
   - / Instructions
   - / URL outside of machine
   - \ Pathway inside machine
-- Search Javascript in Chrome / Settings to see if Javascript can be turned off
+- Search JavaScript in Chrome / Settings to see if JavaScript can be turned off
 
 ---
 
@@ -272,12 +274,12 @@ Ideas to Conmsider
      - [ ] Changing favicon and head-title
 
 - 65-80%: HTML Changes using site.css or script.js
-     - [ ] Removing IDs of Green or Red colouring
-     - [ ] Changing BLUE, YELLOW, and WHITE Colouring
+     - [ ] Removing IDs of Green or Red coloring
+     - [ ] Changing BLUE, YELLOW, and WHITE Coloring
      - [ ] Adding one image per music file & additional images for theme
      - [ ] Using css classes to change formatting
 
-- 80-100%: Creativbity answering I can visually image your music player
+- 80-100%: Creativity answering I can visually imagine your music player
      - [ ] Adding reference features like Date Accessed
 
 ---
@@ -295,16 +297,16 @@ Ideas to Conmsider
 - OOP Date
 
 # Next Steps
-- Developing Comments and PsudeoCode (Note, AI may suggest choices & must be at grade level)
+- Developing Comments and Pseudocode (Note, AI may suggest choices & must be at grade level)
 - Loading Music in Processing
-- Prototyping 2D Shapes in Processing, using 1/2 Fold Progressions (refer to drawings and sybloic meaning developed in Case Study)
-- Prototyping 2D Images as Background and in a DIV, no aspect ration
+- Prototyping 2D Shapes in Processing, using 1/2 Fold Progressions (refer to drawings and symbolic meaning developed in Case Study)
+- Prototyping 2D Images as Background and in a DIV, no aspect ratio
 - Prototyping 2D Images using Aspect Ratio
 - Prototyping 2D Images CENTERED, LEFT, RIGHT, TOP, Middle, BOTTOM
 - Prototyping Text with SIZE as Developer hard-coded
 - Prototyping Large Display CANVAS Checker
-- Prototyping Smallest Menu with CANVAS Checker: what buttons and informaton to include
+- Prototyping Smallest Menu with CANVAS Checker: what buttons and information to include
 - Prototyping Larger Incremental Menu Sizes: what additional information to include
-- Prototyping Object Orientated Programming Music Class in Pong as a Button
+- Prototyping Object-Oriented Programming Music Class in Pong as a Button
 
 ---
